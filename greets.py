@@ -1,1 +1,1 @@
-Greetings = ["koli","Gowshik kattu"]
+Greetings = ["koli","gowshik kattu","hi"]
